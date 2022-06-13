@@ -1,6 +1,5 @@
-# calculator
 # Project Title
-
+# js calculator
 Simple overview of use/purpose.
 
 ## Description

@@ -1,17 +1,10 @@
 # Project Title
-# js calculator
-Simple overview of use/purpose.
+# JS calculator
+A basic calculaor to perform arithmetic operations
 
-## Description
+### User Interface
 
-An in-depth paragraph about your project and overview of use.
 
-## Getting Started
-
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
 
 ### Installing
 
@@ -40,15 +33,9 @@ Contributors names and contact info
 ex. Dominique Pizzie  
 ex. [@DomPizzie](https://twitter.com/dompizzie)
 
-## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
 
 ## License
 
-This project is licensed under the MAT FRASER License - see the LICENSE.md file for details
+This project is licensed under the MAT FRASER License 
 
